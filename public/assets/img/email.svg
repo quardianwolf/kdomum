@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>24px (16)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="207.671744%" y1="-71.7921596%" x2="-32.560749%" y2="140.112728%" id="linearGradient-1">
+            <stop stop-color="#E6BA0C" offset="0%"></stop>
+            <stop stop-color="#E450B3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Finals" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.900000036">
+        <g id="Pricing-page-v2" transform="translate(-806.000000, -985.000000)" fill-rule="nonzero">
+            <g id="Group-13" transform="translate(0.000000, 847.000000)">
+                <g id="Need-help" transform="translate(804.000000, 94.000000)">
+                    <g id="Group-11">
+                        <g id="E-mail" transform="translate(0.000000, 40.000000)">
+                            <g id="24px-(16)">
+                                <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                                <path d="M22,6 C22,4.9 21.1,4 20,4 L4,4 C2.9,4 2,4.9 2,6 L2,18 C2,19.1 2.9,20 4,20 L20,20 C21.1,20 22,19.1 22,18 L22,6 Z M20,6 L12,10.99 L4,6 L20,6 Z M20,18 L4,18 L4,8 L12,13 L20,8 L20,18 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

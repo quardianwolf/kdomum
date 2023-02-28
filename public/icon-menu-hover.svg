@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icon-Menu-Hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="207.671744%" y1="-71.7921596%" x2="-32.560749%" y2="140.112728%" id="linearGradient-1">
+            <stop stop-color="#E6BA0C" offset="0%"></stop>
+            <stop stop-color="#E450B3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="207.671744%" y1="-67.851479%" x2="-32.560749%" y2="137.19706%" id="linearGradient-2">
+            <stop stop-color="#E6BA0C" offset="0%"></stop>
+            <stop stop-color="#E450B3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Menu-Hover" transform="translate(-36.000000, -27.000000)" fill-rule="nonzero">
+            <g transform="translate(36.000000, 27.000000)" id="Group">
+                <g>
+                    <path d="M32,0 C14.355,0 0,14.355 0,32 C0,49.645 14.355,64 32,64 C49.645,64 64,49.645 64,32 C64,14.355 49.645,0 32,0 L32,0 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                    <path d="M32,3.25 C16.147,3.25 3.25,16.147 3.25,32 C3.25,47.853 16.147,60.75 32,60.75 C47.853,60.75 60.75,47.853 60.75,32 C60.75,16.147 47.853,3.25 32,3.25 L32,3.25 Z" id="Path" fill="#000000"></path>
+                </g>
+                <g transform="translate(19.000000, 19.000000)" fill="url(#linearGradient-2)">
+                    <path d="M25.415,22.267 L25.415,25.213 L0.585,25.213 L0.585,22.267 L25.415,22.267 Z M25.415,15.107 L25.415,18.053 L0.585,18.053 L0.585,15.107 L25.415,15.107 Z M25.415,7.947 L25.415,10.893 L0.585,10.893 L0.585,7.947 L25.415,7.947 Z M25.415,0.788 L25.415,3.734 L0.585,3.734 L0.585,0.788 L25.415,0.788 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

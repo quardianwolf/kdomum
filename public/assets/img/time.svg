@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>24px (15)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="207.671744%" y1="-71.7921596%" x2="-32.560749%" y2="140.112728%" id="linearGradient-1">
+            <stop stop-color="#E6BA0C" offset="0%"></stop>
+            <stop stop-color="#E450B3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Finals" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.900000036">
+        <g id="Pricing-page-v2" transform="translate(-806.000000, -1023.000000)" fill-rule="nonzero">
+            <g id="Group-13" transform="translate(0.000000, 847.000000)">
+                <g id="Need-help" transform="translate(804.000000, 94.000000)">
+                    <g id="Group-11">
+                        <g id="Shift" transform="translate(0.000000, 80.000000)">
+                            <g id="24px-(15)">
+                                <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                                <path d="M11.99,2 C17.52,2 22,6.48 22,12 C22,17.52 17.52,22 11.99,22 C6.47,22 2,17.52 2,12 C2,6.48 6.47,2 11.99,2 Z M12,20 C16.42,20 20,16.42 20,12 C20,7.58 16.42,4 12,4 C7.58,4 4,7.58 4,12 C4,16.42 7.58,20 12,20 Z M12.5,7 L12.5,12.25 L17,14.92 L16.25,16.15 L11,13 L11,7 L12.5,7 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

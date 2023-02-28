@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icon-Menu-Active-Hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="207.671744%" y1="-71.7921596%" x2="-32.560749%" y2="140.112728%" id="linearGradient-1">
+            <stop stop-color="#E6BA0C" offset="0%"></stop>
+            <stop stop-color="#E450B3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Menu-Active-Hover" transform="translate(-39.000000, -30.000000)" fill-rule="nonzero">
+            <g transform="translate(39.000000, 30.000000)" id="Group">
+                <g fill="#000000">
+                    <path d="M28.75,0 C12.897,0 0,12.897 0,28.75 C0,44.603 12.897,57.5 28.75,57.5 C44.603,57.5 57.5,44.603 57.5,28.75 C57.5,12.897 44.603,0 28.75,0 L28.75,0 Z" id="Path"></path>
+                </g>
+                <g transform="translate(19.000000, 18.000000)" fill="url(#linearGradient-1)">
+                    <g id="Group-2">
+                        <path d="M18.1521624,0.652701023 L20.235299,2.7358376 L12.497701,10.472701 L20.235299,18.2101624 L18.1521624,20.293299 L10.414701,12.555701 L2.6778376,20.293299 L0.594701023,18.2101624 L8.33170102,10.472701 L0.594701023,2.7358376 L2.6778376,0.652701023 L10.414701,8.38970102 L18.1521624,0.652701023 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

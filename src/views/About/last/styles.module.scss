@@ -1,0 +1,70 @@
+.promiseTeam{
+    position: relative;
+    z-index: 1;
+
+    :after {
+        background: url(../../../../public/background-x.svg) no-repeat;
+        background-position: top;
+        height: 1050px;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 840px;
+    }
+}
+.ourPromise{
+    padding: 100px 0;
+    background-size: cover;
+
+    .imgPositionAbsolute{
+        border-radius: 0 100px 0 0;
+        overflow: hidden;
+    }
+
+    .container{
+
+    .title{
+        color: #fff;
+        font-family: 'Cambo', serif;
+        font-size: 56px;
+        line-height: 63px;
+        font-weight: 300;
+        margin-bottom: 40px;
+    }
+    .title{
+        margin-bottom: 5px;
+        font-size: 50px;
+        font-family: 'barricada';
+    }
+
+    .itemContainer{
+        margin-bottom: 20px;
+        background-color: rgba(15, 15, 15, 0.81);
+        padding: 24px;
+        min-height: 340px;
+
+        figure {
+            height: 80px;
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+
+            figcaption {
+                color: #ffffff;
+                font-size: 16px;
+                font-weight: bold;
+                letter-spacing: 0.89px;
+                line-height: 20px;
+                margin-left: 24px;
+                width: 160px;
+            }
+        }
+
+        p {
+            color: #fff;
+            font-size: 16px;
+            line-height: 26px;
+        }
+    }
+}
+}

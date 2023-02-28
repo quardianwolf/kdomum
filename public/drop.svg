@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="207.671744%" y1="-71.7921596%" x2="-32.560749%" y2="140.112728%" id="linearGradient-1">
+            <stop stop-color="#E6BA0C" offset="0%"></stop>
+            <stop stop-color="#E450B3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Main-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FAQ-V3" transform="translate(-976.000000, -640.000000)">
+            <g id="Group-15" transform="translate(425.000000, 612.000000)">
+                <g id="Group-14" transform="translate(551.000000, 28.000000)">
+                    <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" cx="12" cy="12" r="12"></circle>
+                    <path d="M14.7481495,13.1435668 L9.46798631,18.7331868 C9.13210415,19.0889377 8.5875288,19.0889377 8.25180971,18.7331868 C7.91606343,18.3777523 7.91606343,17.8012718 8.25180971,17.4458661 L12.923939,12.4999065 L8.25194559,7.55411954 C7.91619932,7.19854121 7.91619932,6.62211822 8.25194559,6.26668374 C8.58769187,5.91110542 9.13224004,5.91110542 9.4681222,6.26668374 L14.7482854,11.85639 C14.9161586,12.0341935 15,12.2669781 15,12.4998777 C15,12.7328924 14.9159955,12.9658496 14.7481495,13.1435668 Z" id="Path" fill="#FFFFFF" transform="translate(11.500000, 12.500000) rotate(-270.000000) translate(-11.500000, -12.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
